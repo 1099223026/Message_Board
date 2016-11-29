@@ -1,0 +1,25 @@
+body{font:14px/1.5 "PingFang SC",Helvetica,"Helvetica Neue","微软雅黑",Tahoma,Arial,sans-serif;}
+.green{color: #00b43c;}
+.grey-bdt{border-top: 1px solid #9e9a9a;}
+.pst-rel{position: relative;}
+.wdt-percent{width:100%;}
+.font-wgt-800{font-weight: 800;}
+.font-12{font-size:12px;}
+.font-14{font-size:14px;}
+.font-15{font-size:15px;}
+.mgn-btm-6{margin-bottom: 6px;}
+.pdgl-clear{padding-left: 0;}
+.pdg-clear{padding: 0;}
+.limit-num{
+    position: absolute;
+    bottom:0px;
+    right:10px;
+}
+.user-img{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}
+a.thumb .glyphicon-thumbs-up:hover{
+    color:#251818;
+}
